@@ -1,6 +1,6 @@
 package javaIntroOnline;
 
-public class Main {
+public class LinearTask1 {
 	public static void main(String[] args) {
 		int a =4;
 		int b =4;
