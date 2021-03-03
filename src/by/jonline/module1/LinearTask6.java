@@ -1,4 +1,4 @@
-package by.jonline.course;
+package by.jonline.module1;
 import java.util.Scanner;
 public class LinearTask6 {
 	public static void main(String[]args) {

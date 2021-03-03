@@ -1,4 +1,4 @@
-package by.jonline.course;
+package by.jonline.module1;
 public class LinearTask3 {
 	public static void main (String [] args) {
 			double x = 3; 

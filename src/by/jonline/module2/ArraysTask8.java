@@ -1,4 +1,4 @@
-package by.jonline.course;
+package by.jonline.module2;
 
 public class ArraysTask8 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package by.jonline.course;
+package by.jonline.module1;
 
 public class BranchingTask1 {
 	public static void main(String[] args) {

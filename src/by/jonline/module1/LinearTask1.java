@@ -1,4 +1,4 @@
-package by.jonline.course;
+package by.jonline.module1;
 
 public class LinearTask1 {
 	public static void main(String[] args) {
