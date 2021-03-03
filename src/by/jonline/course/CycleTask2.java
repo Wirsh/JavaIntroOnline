@@ -1,4 +1,4 @@
-package javaIntroOnline;
+package by.jonline.course;
 
 public class CycleTask2 {
 	public static void main(String[]args) {

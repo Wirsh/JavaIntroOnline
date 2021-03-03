@@ -1,4 +1,4 @@
-package javaIntroOnline;
+package by.jonline.course;
 import java.util.Scanner;
 public class BranchingTask5 {
 public static void main(String[]args) {

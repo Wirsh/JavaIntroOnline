@@ -1,4 +1,4 @@
-package javaIntroOnline;
+package by.jonline.course;
 
 public class ArraysTask1 {
     public static void main(String[]args) {
